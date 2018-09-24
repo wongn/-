@@ -1,0 +1,15 @@
+python连接数据库：
+1.先创建连接
+2.为连接创建游标
+3.基于游标对表进行操作
+4.提交数据修改到数据库
+5.关闭游标
+6.关闭连接
+
+
+什么是loc和iloc：https://blog.csdn.net/chenkfkevin/article/details/62049060
+什么是fetchall：https://blog.csdn.net/jian_yun_rui/article/details/73692331
+python实现数据库之间的迁移：https://blog.csdn.net/qq_27631797/article/details/79410277
+python操作数据库和excel：https://blog.csdn.net/qq20004604/article/details/78473273
+python和MySQL：https://blog.csdn.net/Jorocco/article/details/78133294
+python里的pymssql：https://blog.csdn.net/kevin6216/article/details/6774403
